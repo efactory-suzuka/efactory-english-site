@@ -44,3 +44,12 @@
 GitHubでの公開確認後に、案内リンク・日本語サイトのEnglishリンクを新URLに変更する。Cloudflareサイトの削除やリダイレクト設定は今回は行わない。移行完了後の重複公開の扱いは、ユーザーへ具体案を提示して決める。
 
 ChatGPTのCache missがGitHub移行で解消するかは未確認。CodexのHTTP成功を実ChatGPTの取得成功として扱わない。
+
+## GitHubへの保存結果
+
+ソースのmainへのpush成功（初回ソースコミット `feaddb315227980b28cb7cd00849582907b3a479`）。
+公開ファイルのgh-pagesへのpush成功（`a587d3ed3fdd0b194d716cffed637cdd819d0bca`）。
+Gitリモート参照の読み取りで両ブランチの保存を確認した。Pages設定の有効化と公開URLの外部確認は未了。
+
+開発環境の通信許可下書きには `api.github.com` と `efactory-suzuka.github.io` を追加保存した。
+下書きの保存だけでは反映されない。反映する場合は環境設定で確認・保存後、開発環境を公開する。Webサイトの公開設定とは別。
