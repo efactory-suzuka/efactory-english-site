@@ -53,3 +53,16 @@ Gitリモート参照の読み取りで両ブランチの保存を確認した�
 
 開発環境の通信許可下書きには `api.github.com` と `efactory-suzuka.github.io` を追加保存した。
 下書きの保存だけでは反映されない。反映する場合は環境設定で確認・保存後、開発環境を公開する。Webサイトの公開設定とは別。
+
+## 公開後の実測確認（14:34更新）
+
+2026-10-14 14:34（日本時間）、GitHub Pagesの公開成功をHTTPで確認した。
+公開URL： https://efactory-suzuka.github.io/efactory-english-site/
+
+全7ページ・robots・sitemapを通常ブラウザ／Googlebot／Bingbot／OAI-SearchBotの4 User-Agentで実測し、36リクエストすべて200。全7HTMLはGitHub用正式ビルドとSHA-256で一致。index/follow、canonical、7URLのXML、検索禁止X-Robots-Tagなしを確認。
+追加のHOME試験ではChatGPT-UserとPython-urllib/3.12も200で正常HTML。以前CloudflareでのPython系403/1010は、このGitHub経路では再現しなかった。ただしChatGPT実Web取得の成功を確認したものではない。
+
+ホスト直下 `https://efactory-suzuka.github.io/robots.txt` は404で、全体Disallowのファイルは検出されなかった。プロジェクト配下のrobotsは200。GitHub側の公開設定有効化と外部HTTP確認が完了したため、上の「未了」は準備時点の記録。
+
+Custom domainは未設定。GitHubのドメイン接続・HTTPSは無料だが、独自ドメインの取得・更新は通常別料金。新規契約・購入・DNS操作を行わず、無料のgithub.io URLを利用する。Cloudflareサイトと他のリソースは残している。
+測定資料： `search-github-live.json`、`github-pages-live-summary.json`。

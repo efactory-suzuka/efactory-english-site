@@ -1,0 +1,674 @@
+[
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 22614,
+    "sha256": "f532e5f9e30df6125f2f4fcbc142202ef260d6e4f38b30546e55636e53467f06",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/"
+    ],
+    "mainTextCharacters": 6224
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/services/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/services/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 15206,
+    "sha256": "fdac82b6a322489158ec2e7efd94cd6949981a4b31ec9071132bf99d5cc37a1c",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/services/"
+    ],
+    "mainTextCharacters": 4253
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/pricing/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/pricing/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 13677,
+    "sha256": "7462476ba8c81f54c472ba9a7d558e9160fb1e48a63bebcec615accd03aa0ae5",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/pricing/"
+    ],
+    "mainTextCharacters": 4691
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/about/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/about/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 9149,
+    "sha256": "bd4edbde92d84a662f6ab10b0032b4fed90a9ad7fc4fbb8bcdc0a6b8601dde2c",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/about/"
+    ],
+    "mainTextCharacters": 2371
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 15941,
+    "sha256": "26829f59c532c0fce614397f7db7a0b819c4b003b06e395a22c9acc4356d8380",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/"
+    ],
+    "mainTextCharacters": 6151
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/faq/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/faq/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10831,
+    "sha256": "3807949705ae2cfcd54f00ba79782b3cca465af3313e8fd35a08a19085875b2e",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/faq/"
+    ],
+    "mainTextCharacters": 4217
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/contact/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/contact/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 11361,
+    "sha256": "a35382fddaeafecb50f37f83f0a73487010449dd7aff794a2178bb3a4af6d02b",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/contact/"
+    ],
+    "mainTextCharacters": 2867
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/robots.txt",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/robots.txt",
+    "contentType": "text/plain; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 199,
+    "sha256": "b50e9cd6e77f16da4f3b5428964a3c8f6c8eff7b6226b6216a11c91930649f50",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml\n"
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml",
+    "contentType": "application/xml",
+    "xRobotsTag": [],
+    "bytes": 723,
+    "sha256": "df8d39f1bbaf20b090297b46f824ca4a44b22dd332fb0388be716d1ddf7773b3",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/services/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/pricing/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/about/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/faq/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/contact/</loc></url>\n</urlset>\n"
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 22614,
+    "sha256": "f532e5f9e30df6125f2f4fcbc142202ef260d6e4f38b30546e55636e53467f06",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/"
+    ],
+    "mainTextCharacters": 6224
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/services/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/services/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 15206,
+    "sha256": "fdac82b6a322489158ec2e7efd94cd6949981a4b31ec9071132bf99d5cc37a1c",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/services/"
+    ],
+    "mainTextCharacters": 4253
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/pricing/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/pricing/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 13677,
+    "sha256": "7462476ba8c81f54c472ba9a7d558e9160fb1e48a63bebcec615accd03aa0ae5",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/pricing/"
+    ],
+    "mainTextCharacters": 4691
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/about/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/about/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 9149,
+    "sha256": "bd4edbde92d84a662f6ab10b0032b4fed90a9ad7fc4fbb8bcdc0a6b8601dde2c",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/about/"
+    ],
+    "mainTextCharacters": 2371
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 15941,
+    "sha256": "26829f59c532c0fce614397f7db7a0b819c4b003b06e395a22c9acc4356d8380",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/"
+    ],
+    "mainTextCharacters": 6151
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/faq/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/faq/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10831,
+    "sha256": "3807949705ae2cfcd54f00ba79782b3cca465af3313e8fd35a08a19085875b2e",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/faq/"
+    ],
+    "mainTextCharacters": 4217
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/contact/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/contact/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 11361,
+    "sha256": "a35382fddaeafecb50f37f83f0a73487010449dd7aff794a2178bb3a4af6d02b",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/contact/"
+    ],
+    "mainTextCharacters": 2867
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/robots.txt",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/robots.txt",
+    "contentType": "text/plain; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 199,
+    "sha256": "b50e9cd6e77f16da4f3b5428964a3c8f6c8eff7b6226b6216a11c91930649f50",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml\n"
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml",
+    "contentType": "application/xml",
+    "xRobotsTag": [],
+    "bytes": 723,
+    "sha256": "df8d39f1bbaf20b090297b46f824ca4a44b22dd332fb0388be716d1ddf7773b3",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/services/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/pricing/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/about/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/faq/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/contact/</loc></url>\n</urlset>\n"
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 22614,
+    "sha256": "f532e5f9e30df6125f2f4fcbc142202ef260d6e4f38b30546e55636e53467f06",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/"
+    ],
+    "mainTextCharacters": 6224
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/services/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/services/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 15206,
+    "sha256": "fdac82b6a322489158ec2e7efd94cd6949981a4b31ec9071132bf99d5cc37a1c",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/services/"
+    ],
+    "mainTextCharacters": 4253
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/pricing/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/pricing/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 13677,
+    "sha256": "7462476ba8c81f54c472ba9a7d558e9160fb1e48a63bebcec615accd03aa0ae5",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/pricing/"
+    ],
+    "mainTextCharacters": 4691
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/about/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/about/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 9149,
+    "sha256": "bd4edbde92d84a662f6ab10b0032b4fed90a9ad7fc4fbb8bcdc0a6b8601dde2c",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/about/"
+    ],
+    "mainTextCharacters": 2371
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 15941,
+    "sha256": "26829f59c532c0fce614397f7db7a0b819c4b003b06e395a22c9acc4356d8380",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/"
+    ],
+    "mainTextCharacters": 6151
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/faq/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/faq/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10831,
+    "sha256": "3807949705ae2cfcd54f00ba79782b3cca465af3313e8fd35a08a19085875b2e",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/faq/"
+    ],
+    "mainTextCharacters": 4217
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/contact/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/contact/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 11361,
+    "sha256": "a35382fddaeafecb50f37f83f0a73487010449dd7aff794a2178bb3a4af6d02b",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/contact/"
+    ],
+    "mainTextCharacters": 2867
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/robots.txt",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/robots.txt",
+    "contentType": "text/plain; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 199,
+    "sha256": "b50e9cd6e77f16da4f3b5428964a3c8f6c8eff7b6226b6216a11c91930649f50",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml\n"
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml",
+    "contentType": "application/xml",
+    "xRobotsTag": [],
+    "bytes": 723,
+    "sha256": "df8d39f1bbaf20b090297b46f824ca4a44b22dd332fb0388be716d1ddf7773b3",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/services/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/pricing/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/about/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/faq/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/contact/</loc></url>\n</urlset>\n"
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 22614,
+    "sha256": "f532e5f9e30df6125f2f4fcbc142202ef260d6e4f38b30546e55636e53467f06",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/"
+    ],
+    "mainTextCharacters": 6224
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/services/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/services/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 15206,
+    "sha256": "fdac82b6a322489158ec2e7efd94cd6949981a4b31ec9071132bf99d5cc37a1c",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/services/"
+    ],
+    "mainTextCharacters": 4253
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/pricing/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/pricing/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 13677,
+    "sha256": "7462476ba8c81f54c472ba9a7d558e9160fb1e48a63bebcec615accd03aa0ae5",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/pricing/"
+    ],
+    "mainTextCharacters": 4691
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/about/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/about/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 9149,
+    "sha256": "bd4edbde92d84a662f6ab10b0032b4fed90a9ad7fc4fbb8bcdc0a6b8601dde2c",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/about/"
+    ],
+    "mainTextCharacters": 2371
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 15941,
+    "sha256": "26829f59c532c0fce614397f7db7a0b819c4b003b06e395a22c9acc4356d8380",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/"
+    ],
+    "mainTextCharacters": 6151
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/faq/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/faq/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10831,
+    "sha256": "3807949705ae2cfcd54f00ba79782b3cca465af3313e8fd35a08a19085875b2e",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/faq/"
+    ],
+    "mainTextCharacters": 4217
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/contact/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/contact/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 11361,
+    "sha256": "a35382fddaeafecb50f37f83f0a73487010449dd7aff794a2178bb3a4af6d02b",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-suzuka.github.io/efactory-english-site/contact/"
+    ],
+    "mainTextCharacters": 2867
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/robots.txt",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/robots.txt",
+    "contentType": "text/plain; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 199,
+    "sha256": "b50e9cd6e77f16da4f3b5428964a3c8f6c8eff7b6226b6216a11c91930649f50",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml\n"
+  },
+  {
+    "url": "https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-suzuka.github.io/efactory-english-site/sitemap.xml",
+    "contentType": "application/xml",
+    "xRobotsTag": [],
+    "bytes": 723,
+    "sha256": "df8d39f1bbaf20b090297b46f824ca4a44b22dd332fb0388be716d1ddf7773b3",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/services/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/pricing/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/about/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/ecu-tuning/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/faq/</loc></url>\n  <url><loc>https://efactory-suzuka.github.io/efactory-english-site/contact/</loc></url>\n</urlset>\n"
+  }
+]

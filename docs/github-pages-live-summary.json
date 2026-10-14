@@ -1,0 +1,35 @@
+{
+  "measuredAt": "2026-10-14T14:34:11.221470+09:00",
+  "all36RequestsHTTP200": true,
+  "all7HTMLMatchesProductionBuild": true,
+  "allCanonicalCorrect": true,
+  "allIndexFollow": true,
+  "sitemapURLs": 7,
+  "additionalChecks": [
+    {
+      "url": "https://efactory-suzuka.github.io/robots.txt",
+      "status": 404,
+      "contentType": "text/html; charset=utf-8",
+      "xRobotsTag": [],
+      "bytes": 9115,
+      "sha256": "70d613e3acfba24fd2876fcbacaf639e1e111ef4d54baf70761c47673f37d6a3"
+    },
+    {
+      "url": "https://efactory-suzuka.github.io/efactory-english-site/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "xRobotsTag": [],
+      "bytes": 22614,
+      "sha256": "f532e5f9e30df6125f2f4fcbc142202ef260d6e4f38b30546e55636e53467f06"
+    },
+    {
+      "url": "https://efactory-suzuka.github.io/efactory-english-site/",
+      "status": 200,
+      "contentType": "text/html; charset=utf-8",
+      "xRobotsTag": [],
+      "bytes": 22614,
+      "sha256": "f532e5f9e30df6125f2f4fcbc142202ef260d6e4f38b30546e55636e53467f06"
+    }
+  ],
+  "actualChatGPTWebAcquisition": "not tested"
+}

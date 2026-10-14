@@ -2,7 +2,7 @@
 
 日本在住・日本全国の外国人ライダー向けの独立したAstro静的サイトです。全7ページ、原画像、税込料金、英語原稿を維持してGitHub Pagesへ移行する構成です。
 
-公開予定URL： **https://efactory-suzuka.github.io/efactory-english-site/**
+公開URL： **https://efactory-suzuka.github.io/efactory-english-site/**（2026-10-14、全7ページのHTTP取得を確認）
 GitHub： https://github.com/efactory-suzuka/efactory-english-site
 現在の移行状況は [GITHUB-PAGES.md](docs/GITHUB-PAGES.md) を参照してください。
 
