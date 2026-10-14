@@ -1,0 +1,22 @@
+[
+  {
+    "test": "urllib-standard",
+    "pythonVersion": "3.12.14",
+    "status": 403,
+    "contentType": "text/plain; charset=UTF-8",
+    "cfRay": "a4a356c84ed4d2ec-ORD",
+    "cfMitigated": null,
+    "bytes": 17,
+    "errorText": "error code: 1010\n"
+  },
+  {
+    "test": "browser-control",
+    "pythonVersion": "3.12.14",
+    "status": 200,
+    "contentType": "text/html; charset=utf-8",
+    "cfRay": "a4a356c8da3e34d9-ORD",
+    "cfMitigated": null,
+    "bytes": 20766,
+    "errorText": null
+  }
+]

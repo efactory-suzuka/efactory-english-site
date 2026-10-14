@@ -1,0 +1,35 @@
+---
+import PageLayout from '../components/PageLayout.astro';
+import NextStep from '../components/NextStep.astro';
+import { pricing, yen } from '../data/site';
+const groups = [
+ { id: 'getting-started', title: 'Getting started', questions: [
+ ['Can I enquire if I’m new to DIY maintenance?', 'Yes. Explain your experience and the task you want to try. The Japanese site welcomes beginners and suggests starting with lighter tasks. Confirm the equipment and support available before booking.'],
+ ['Who does the work?', 'For supported DIY, you work on your bike with tools, equipment and practical guidance. Staff operate the tyre changer. Fabrication, ECU work and other specialist services have their own agreed scope. Confirm the responsibilities for your project.'],
+ ['Do I have to become a member?', `No membership registration is needed for the first-visit trial. A single ${pricing.single.minutes}-minute session is listed at ${yen(pricing.single.total)}, including tax, and passes are also available. Some services are member-oriented or quoted individually.`],
+ ]},
+ { id: 'booking-language', title: 'Booking, travel & language', questions: [
+ ['How do I book?', 'Use the official LINE contact route. Send your name, motorcycle model, intended task, preferred date and any concerns. Wait for the appointment to be agreed before visiting; an enquiry alone does not reserve a slot.'],
+ ['Can I visit from another part of Japan?', 'Yes, riders from across Japan are welcome at the Suzuka workshop. Confirm service availability, preparation, costs, language arrangements and the appointment before making travel plans.'],
+ ['Can I drop in without an appointment?', 'Visits are by appointment only. Contact eFactory in advance rather than travelling to the workshop without confirmation.'],
+ ['Can I receive support in English?', 'The scope of English support has not been confirmed. Ask about written enquiries, in-person explanations and specialist technical consultation before booking or travelling. The English website does not guarantee English-speaking assistance.'],
+ ]},
+ { id: 'prices-preparation', title: 'Prices & preparation', questions: [
+ ['What does a first visit cost?', `The first-visit trial is ${yen(pricing.first.total)} for ${pricing.first.minutes} minutes, including tax, for first-time customers. Agree on the task and scope before booking. Parts, consumables, materials and specialist work may cost extra.`],
+ ['How do the session passes work?', `The 3-session pass totals ${yen(pricing.passes[0].total)} and the 5-session pass totals ${yen(pricing.passes[1].total)}, including tax. Each slot is ${pricing.single.minutes} minutes, and passes are listed here as valid for ${pricing.passes[0].validityMonths} months. Confirm when the period starts and any booking, transfer or refund rules before purchasing.`],
+ ['Do I need to bring tools or parts?', 'Ask what equipment is available for your task and whether parts or materials need preparing. Specialist tools or parts may require preparation time. Agree on any brought-in parts and their suitability before your visit.'],
+ ['Is technical advice free?', 'Technical consultation is a paid service. The initial booking enquiry checks the available service and arrangements; it is separate from diagnosis, detailed technical advice and member consultation services.'],
+ ['What if I need to change or cancel?', 'Ask which change, cancellation and late-arrival rules apply before confirming the appointment or purchasing a plan. These detailed conditions need to be confirmed directly with eFactory.'],
+ ]},
+ { id: 'specialist-services', title: 'Specialist projects', questions: [
+ ['Can you support my ECU or custom part project?', 'Send the motorcycle specification, intended use and requirements. ECU work and fabrication are assessed individually, including compatibility, feasibility and separate charges. An enquiry does not confirm that a project can be accepted.'],
+ ['Are riding and gymkhana services included in every plan?', 'Riding and gymkhana advice, riding-position adjustments and suspension-setting enquiries are listed as member services. Confirm the available scope and any additional charges for your project.'],
+ ['Is there parking?', 'The Japanese site lists free car and motorcycle parking. Confirm your appointment and arrival arrangements before travelling. The Contact & Access page provides the published address and Google Maps links.'],
+ ]},
+];
+---
+<PageLayout title="Frequently asked questions" heading="Good to know before you visit." description="Answers about eFactory’s supported DIY approach, tax-inclusive prices, passes, tools, appointments, travel from across Japan and English-language arrangements." intro="Understand the approach, prepare for your project and agree on the arrangements before travelling to Suzuka." eyebrow="FAQ / BEFORE YOUR FIRST VISIT">
+  <nav class="section-nav" aria-label="FAQ sections">{groups.map(group => <a href={`#${group.id}`}>{group.title}</a>)}</nav>
+  <div class="faq-groups">{groups.map(group => <section id={group.id} class="faq-group"><h2>{group.title}</h2><div class="faq-list">{group.questions.map(([question,answer]) => <details><summary>{question}</summary><p>{answer}</p></details>)}</div></section>)}</div>
+  <NextStep title="Have a question about your visit?" text="Tell us about your motorcycle and intended task so the available service, preparation and booking arrangements can be confirmed." />
+</PageLayout>

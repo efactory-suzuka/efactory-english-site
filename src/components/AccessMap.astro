@@ -1,0 +1,9 @@
+---
+import { contact } from '../data/site';
+interface Props { compact?: boolean; }
+const { compact = false } = Astro.props;
+---
+<div class:list={['access-map', { 'access-map-compact': compact }]}>
+  <div class="map-frame"><iframe src={contact.mapEmbed} title="Google Maps: eFactory’s published address in Suzuka, Japan" width="600" height="360" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+  <div class="map-info"><p class="eyebrow">SUZUKA, MIE, JAPAN</p><h3>Find your way to eFactory.</h3><p class="map-address" lang="ja">{contact.addressJapanese}</p><p>Visits are by appointment only. Confirm your appointment and arrival arrangements before travelling.</p><div class="map-actions"><a class="button" href={contact.directions}>Get directions <span class="arrow" aria-hidden="true"></span></a><a class="text-link" href={contact.map}>Open Google Maps <span class="arrow" aria-hidden="true"></span></a></div><p class="map-note">The map uses our published address. Confirm the exact destination before visiting. You can also open Google Maps directly if the embedded map does not load.</p></div>
+</div>

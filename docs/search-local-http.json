@@ -1,0 +1,111 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "contentType": "text/html",
+    "metaRobots": [
+      "index, follow"
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/"
+    ],
+    "xRobotsTag": [],
+    "bytes": 20766
+  },
+  {
+    "path": "/services/",
+    "status": 200,
+    "contentType": "text/html",
+    "metaRobots": [
+      "index, follow"
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/services/"
+    ],
+    "xRobotsTag": [],
+    "bytes": 13824
+  },
+  {
+    "path": "/pricing/",
+    "status": 200,
+    "contentType": "text/html",
+    "metaRobots": [
+      "index, follow"
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/pricing/"
+    ],
+    "xRobotsTag": [],
+    "bytes": 12800
+  },
+  {
+    "path": "/about/",
+    "status": 200,
+    "contentType": "text/html",
+    "metaRobots": [
+      "index, follow"
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/about/"
+    ],
+    "xRobotsTag": [],
+    "bytes": 8294
+  },
+  {
+    "path": "/ecu-tuning/",
+    "status": 200,
+    "contentType": "text/html",
+    "metaRobots": [
+      "index, follow"
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/ecu-tuning/"
+    ],
+    "xRobotsTag": [],
+    "bytes": 14936
+  },
+  {
+    "path": "/faq/",
+    "status": 200,
+    "contentType": "text/html",
+    "metaRobots": [
+      "index, follow"
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/faq/"
+    ],
+    "xRobotsTag": [],
+    "bytes": 10086
+  },
+  {
+    "path": "/contact/",
+    "status": 200,
+    "contentType": "text/html",
+    "metaRobots": [
+      "index, follow"
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/contact/"
+    ],
+    "xRobotsTag": [],
+    "bytes": 10530
+  },
+  {
+    "path": "/robots.txt",
+    "status": 200,
+    "contentType": "text/plain",
+    "metaRobots": [],
+    "canonical": [],
+    "xRobotsTag": [],
+    "bytes": 183
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "contentType": "text/xml",
+    "metaRobots": [],
+    "canonical": [],
+    "xRobotsTag": [],
+    "bytes": 611
+  }
+]

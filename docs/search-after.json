@@ -1,0 +1,674 @@
+[
+  {
+    "url": "https://efactory-english-site.pages.dev/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 20766,
+    "sha256": "93ee9a4106909be162c5d77ea9284f8adab5116f84aa6b778376b4ac0f67cd80",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/"
+    ],
+    "mainTextCharacters": 6224
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/services/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/services/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 13824,
+    "sha256": "af834fded9001d29cdff558b7c59c8876fe6bc76433ee40ab59c3022b737e449",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/services/"
+    ],
+    "mainTextCharacters": 4253
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/pricing/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/pricing/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 12800,
+    "sha256": "b9e9275ff6fc73720b68bed77194276f13df508047c38c9f519a82a1dcd9a8ab",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/pricing/"
+    ],
+    "mainTextCharacters": 4691
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/about/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/about/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 8294,
+    "sha256": "69f224606b08d8ad90cae60565d03b17550369b51b1996414d83565562cd2472",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/about/"
+    ],
+    "mainTextCharacters": 2371
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/ecu-tuning/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/ecu-tuning/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 14936,
+    "sha256": "28223114555b70185734e40b2fa9080cd1b32e6776e9c1065418bc7c4630278a",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/ecu-tuning/"
+    ],
+    "mainTextCharacters": 6151
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/faq/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/faq/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10086,
+    "sha256": "e2983c315c6a84ed97913fa5f7b898746e3eaa22f199be3e5d055b879b0487b5",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/faq/"
+    ],
+    "mainTextCharacters": 4217
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/contact/",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/contact/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10530,
+    "sha256": "24b4c1b4ed94a34aa0a1930239ecc231c1b637f761e8252397c986ed497d5ceb",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/contact/"
+    ],
+    "mainTextCharacters": 2867
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/robots.txt",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/robots.txt",
+    "contentType": "text/plain; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 183,
+    "sha256": "e23d22b09cb967ff1af95a0a36a4b429a7540a164b901f24b115bb4f591858a5",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://efactory-english-site.pages.dev/sitemap.xml\n"
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/sitemap.xml",
+    "userAgent": "browser",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/sitemap.xml",
+    "contentType": "application/xml",
+    "xRobotsTag": [],
+    "bytes": 611,
+    "sha256": "d302e0572d5c780fb5412fbe4de82f2dc6f5b2d6bb350b037b7456980d997975",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://efactory-english-site.pages.dev/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/services/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/pricing/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/about/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/ecu-tuning/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/faq/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/contact/</loc></url>\n</urlset>\n"
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 20766,
+    "sha256": "93ee9a4106909be162c5d77ea9284f8adab5116f84aa6b778376b4ac0f67cd80",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/"
+    ],
+    "mainTextCharacters": 6224
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/services/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/services/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 13824,
+    "sha256": "af834fded9001d29cdff558b7c59c8876fe6bc76433ee40ab59c3022b737e449",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/services/"
+    ],
+    "mainTextCharacters": 4253
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/pricing/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/pricing/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 12800,
+    "sha256": "b9e9275ff6fc73720b68bed77194276f13df508047c38c9f519a82a1dcd9a8ab",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/pricing/"
+    ],
+    "mainTextCharacters": 4691
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/about/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/about/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 8294,
+    "sha256": "69f224606b08d8ad90cae60565d03b17550369b51b1996414d83565562cd2472",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/about/"
+    ],
+    "mainTextCharacters": 2371
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/ecu-tuning/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/ecu-tuning/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 14936,
+    "sha256": "28223114555b70185734e40b2fa9080cd1b32e6776e9c1065418bc7c4630278a",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/ecu-tuning/"
+    ],
+    "mainTextCharacters": 6151
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/faq/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/faq/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10086,
+    "sha256": "e2983c315c6a84ed97913fa5f7b898746e3eaa22f199be3e5d055b879b0487b5",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/faq/"
+    ],
+    "mainTextCharacters": 4217
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/contact/",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/contact/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10530,
+    "sha256": "24b4c1b4ed94a34aa0a1930239ecc231c1b637f761e8252397c986ed497d5ceb",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/contact/"
+    ],
+    "mainTextCharacters": 2867
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/robots.txt",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/robots.txt",
+    "contentType": "text/plain; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 183,
+    "sha256": "e23d22b09cb967ff1af95a0a36a4b429a7540a164b901f24b115bb4f591858a5",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://efactory-english-site.pages.dev/sitemap.xml\n"
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/sitemap.xml",
+    "userAgent": "Googlebot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/sitemap.xml",
+    "contentType": "application/xml",
+    "xRobotsTag": [],
+    "bytes": 611,
+    "sha256": "d302e0572d5c780fb5412fbe4de82f2dc6f5b2d6bb350b037b7456980d997975",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://efactory-english-site.pages.dev/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/services/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/pricing/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/about/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/ecu-tuning/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/faq/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/contact/</loc></url>\n</urlset>\n"
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 20766,
+    "sha256": "93ee9a4106909be162c5d77ea9284f8adab5116f84aa6b778376b4ac0f67cd80",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/"
+    ],
+    "mainTextCharacters": 6224
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/services/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/services/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 13824,
+    "sha256": "af834fded9001d29cdff558b7c59c8876fe6bc76433ee40ab59c3022b737e449",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/services/"
+    ],
+    "mainTextCharacters": 4253
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/pricing/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/pricing/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 12800,
+    "sha256": "b9e9275ff6fc73720b68bed77194276f13df508047c38c9f519a82a1dcd9a8ab",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/pricing/"
+    ],
+    "mainTextCharacters": 4691
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/about/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/about/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 8294,
+    "sha256": "69f224606b08d8ad90cae60565d03b17550369b51b1996414d83565562cd2472",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/about/"
+    ],
+    "mainTextCharacters": 2371
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/ecu-tuning/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/ecu-tuning/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 14936,
+    "sha256": "28223114555b70185734e40b2fa9080cd1b32e6776e9c1065418bc7c4630278a",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/ecu-tuning/"
+    ],
+    "mainTextCharacters": 6151
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/faq/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/faq/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10086,
+    "sha256": "e2983c315c6a84ed97913fa5f7b898746e3eaa22f199be3e5d055b879b0487b5",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/faq/"
+    ],
+    "mainTextCharacters": 4217
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/contact/",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/contact/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10530,
+    "sha256": "24b4c1b4ed94a34aa0a1930239ecc231c1b637f761e8252397c986ed497d5ceb",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/contact/"
+    ],
+    "mainTextCharacters": 2867
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/robots.txt",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/robots.txt",
+    "contentType": "text/plain; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 183,
+    "sha256": "e23d22b09cb967ff1af95a0a36a4b429a7540a164b901f24b115bb4f591858a5",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://efactory-english-site.pages.dev/sitemap.xml\n"
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/sitemap.xml",
+    "userAgent": "Bingbot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/sitemap.xml",
+    "contentType": "application/xml",
+    "xRobotsTag": [],
+    "bytes": 611,
+    "sha256": "d302e0572d5c780fb5412fbe4de82f2dc6f5b2d6bb350b037b7456980d997975",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://efactory-english-site.pages.dev/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/services/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/pricing/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/about/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/ecu-tuning/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/faq/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/contact/</loc></url>\n</urlset>\n"
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 20766,
+    "sha256": "93ee9a4106909be162c5d77ea9284f8adab5116f84aa6b778376b4ac0f67cd80",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/"
+    ],
+    "mainTextCharacters": 6224
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/services/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/services/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 13824,
+    "sha256": "af834fded9001d29cdff558b7c59c8876fe6bc76433ee40ab59c3022b737e449",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/services/"
+    ],
+    "mainTextCharacters": 4253
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/pricing/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/pricing/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 12800,
+    "sha256": "b9e9275ff6fc73720b68bed77194276f13df508047c38c9f519a82a1dcd9a8ab",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/pricing/"
+    ],
+    "mainTextCharacters": 4691
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/about/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/about/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 8294,
+    "sha256": "69f224606b08d8ad90cae60565d03b17550369b51b1996414d83565562cd2472",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/about/"
+    ],
+    "mainTextCharacters": 2371
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/ecu-tuning/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/ecu-tuning/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 14936,
+    "sha256": "28223114555b70185734e40b2fa9080cd1b32e6776e9c1065418bc7c4630278a",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/ecu-tuning/"
+    ],
+    "mainTextCharacters": 6151
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/faq/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/faq/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10086,
+    "sha256": "e2983c315c6a84ed97913fa5f7b898746e3eaa22f199be3e5d055b879b0487b5",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/faq/"
+    ],
+    "mainTextCharacters": 4217
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/contact/",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/contact/",
+    "contentType": "text/html; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 10530,
+    "sha256": "24b4c1b4ed94a34aa0a1930239ecc231c1b637f761e8252397c986ed497d5ceb",
+    "metaRobots": [
+      {
+        "name": "robots",
+        "content": "index, follow"
+      }
+    ],
+    "canonical": [
+      "https://efactory-english-site.pages.dev/contact/"
+    ],
+    "mainTextCharacters": 2867
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/robots.txt",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/robots.txt",
+    "contentType": "text/plain; charset=utf-8",
+    "xRobotsTag": [],
+    "bytes": 183,
+    "sha256": "e23d22b09cb967ff1af95a0a36a4b429a7540a164b901f24b115bb4f591858a5",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "User-agent: Googlebot\nAllow: /\n\nUser-agent: Bingbot\nAllow: /\n\nUser-agent: OAI-SearchBot\nAllow: /\n\nUser-agent: *\nAllow: /\n\nSitemap: https://efactory-english-site.pages.dev/sitemap.xml\n"
+  },
+  {
+    "url": "https://efactory-english-site.pages.dev/sitemap.xml",
+    "userAgent": "OAI-SearchBot",
+    "status": 200,
+    "finalURL": "https://efactory-english-site.pages.dev/sitemap.xml",
+    "contentType": "application/xml",
+    "xRobotsTag": [],
+    "bytes": 611,
+    "sha256": "d302e0572d5c780fb5412fbe4de82f2dc6f5b2d6bb350b037b7456980d997975",
+    "metaRobots": [],
+    "canonical": [],
+    "mainTextCharacters": 0,
+    "body": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">\n  <url><loc>https://efactory-english-site.pages.dev/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/services/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/pricing/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/about/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/ecu-tuning/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/faq/</loc></url>\n  <url><loc>https://efactory-english-site.pages.dev/contact/</loc></url>\n</urlset>\n"
+  }
+]

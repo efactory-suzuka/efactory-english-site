@@ -1,0 +1,28 @@
+[
+  {
+    "build": "dist-production",
+    "mode": "production",
+    "pages": 7,
+    "canonicalURLs": "pass",
+    "metaRobots": "pass",
+    "sitemap": "pass",
+    "robots": "pass",
+    "headersFile": "pass",
+    "visibleHTMLBodyUnchanged": true,
+    "assetsByteIdentical": true,
+    "assetCount": 52
+  },
+  {
+    "build": "dist",
+    "mode": "preview",
+    "pages": 7,
+    "canonicalURLs": "pass",
+    "metaRobots": "pass",
+    "sitemap": "pass",
+    "robots": "pass",
+    "headersFile": "pass",
+    "visibleHTMLBodyUnchanged": true,
+    "assetsByteIdentical": true,
+    "assetCount": 52
+  }
+]

@@ -1,0 +1,9 @@
+---
+interface Props { label?: string; compact?: boolean; }
+const { label = 'A real look inside eFactory', compact = false } = Astro.props;
+---
+<div class:list={['media-placeholder', { compact }]} role="img" aria-label="Placeholder for an official eFactory workshop photograph; no actual workshop is pictured">
+  <div class="media-top"><span>FROM THE WORKSHOP</span><span aria-hidden="true">[ 01 ]</span></div>
+  <div class="media-center"><span class="media-cross" aria-hidden="true">+</span><p>{label}</p><span>OFFICIAL PHOTO TO BE ADDED</span></div>
+  <div class="media-bottom"><span>SUZUKA, JAPAN</span><span class="arrow" aria-hidden="true"></span></div>
+</div>

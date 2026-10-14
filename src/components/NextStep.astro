@@ -1,0 +1,6 @@
+---
+import { sitePath } from '../data/paths';
+interface Props { title?: string; text?: string; href?: string; label?: string; }
+const { title = 'Let’s plan your next step.', text = 'Tell us about your motorcycle and the task you have in mind. Confirm the support, preparation and costs before agreeing on an appointment.', href = '/contact/', label = 'Plan your visit' } = Astro.props;
+---
+<aside class="page-nextstep" aria-label="Next step"><div><p class="eyebrow">START WITH YOUR BIKE & YOUR GOALS</p><h2>{title}</h2><p>{text}</p></div><a class="button" href={sitePath(href)}>{label} <span class="arrow" aria-hidden="true"></span></a></aside>

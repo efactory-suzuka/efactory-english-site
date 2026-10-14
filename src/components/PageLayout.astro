@@ -1,0 +1,18 @@
+---
+import { sitePath } from '../data/paths';
+import type { ImageMetadata } from 'astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+interface Props { title: string; heading?: string; description: string; intro: string; eyebrow?: string; brandLogo?: ImageMetadata; }
+const { brandLogo, title, heading = title, description, intro, eyebrow = 'EFACTORY / YOUR MOTORCYCLE LIFE IN JAPAN' } = Astro.props;
+const hasVisual = Astro.slots.has('visual');
+---
+<BaseLayout title={title} description={description} brandLogo={brandLogo}>
+  <div class="container">
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><a href={sitePath('/')}>Home</a><span aria-hidden="true">/</span><span aria-current="page">{title}</span></nav>
+    <header class:list={['inner-hero', { 'inner-hero-with-image': hasVisual }]}>
+      <div><p class="eyebrow">{eyebrow}</p><h1>{heading}</h1><p class="inner-intro">{intro}</p><slot name="intro-extra" /></div>
+      {hasVisual && <div class="inner-visual"><slot name="visual" /></div>}
+    </header>
+    <div class="inner-content"><slot /></div>
+  </div>
+</BaseLayout>

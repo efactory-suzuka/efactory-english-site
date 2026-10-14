@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+interface Props { title: string; description: string; intro: string; }
+const { title, description, intro } = Astro.props;
+---
+<BaseLayout title={title} description={description}>
+  <div class="container"><header class="page-heading"><p class="eyebrow">EFACTORY / SUZUKA, JAPAN</p><h1>{title}</h1><p class="intro">{intro}</p></header><div class="draft-notice">Page in development. This prototype uses the project brief and the public Japanese website. Authoritative internal documents and detailed terms still need to be checked before publication.</div><div class="page-content"><slot /></div></div>
+</BaseLayout>

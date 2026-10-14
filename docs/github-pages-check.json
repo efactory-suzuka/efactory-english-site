@@ -1,0 +1,146 @@
+{
+  "checks": [
+    {
+      "route": "/efactory-english-site/",
+      "width": 375,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/services/",
+      "width": 375,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/pricing/",
+      "width": 375,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/about/",
+      "width": 375,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/ecu-tuning/",
+      "width": 375,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/faq/",
+      "width": 375,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/contact/",
+      "width": 375,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/",
+      "width": 1280,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/services/",
+      "width": 1280,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/pricing/",
+      "width": 1280,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/about/",
+      "width": 1280,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/ecu-tuning/",
+      "width": 1280,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/faq/",
+      "width": 1280,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    },
+    {
+      "route": "/efactory-english-site/contact/",
+      "width": 1280,
+      "status": 200,
+      "imagesLoaded": true,
+      "internalLinks": true,
+      "canonical": true,
+      "noOverflow": true,
+      "japaneseLink": true
+    }
+  ],
+  "sitemapHTTP200": true,
+  "robotsHTTP200": true
+}

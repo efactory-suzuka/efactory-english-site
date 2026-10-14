@@ -1,0 +1,52 @@
+{
+  "measuredAt": "2026-10-14T11:26:32.360344+09:00",
+  "productionURL": "https://efactory-english-site.pages.dev/",
+  "checks": [
+    {
+      "userAgent": "browser",
+      "requests": 9,
+      "allHTTP200": true,
+      "allHTMLMatchesProductionBuild": true,
+      "metaRobots": "index, follow",
+      "canonical": "all 7 correct",
+      "restrictiveXRobotsTag": false,
+      "robotsAllowsAll7": true,
+      "sitemapXMLURLs": 7
+    },
+    {
+      "userAgent": "Googlebot",
+      "requests": 9,
+      "allHTTP200": true,
+      "allHTMLMatchesProductionBuild": true,
+      "metaRobots": "index, follow",
+      "canonical": "all 7 correct",
+      "restrictiveXRobotsTag": false,
+      "robotsAllowsAll7": true,
+      "sitemapXMLURLs": 7
+    },
+    {
+      "userAgent": "Bingbot",
+      "requests": 9,
+      "allHTTP200": true,
+      "allHTMLMatchesProductionBuild": true,
+      "metaRobots": "index, follow",
+      "canonical": "all 7 correct",
+      "restrictiveXRobotsTag": false,
+      "robotsAllowsAll7": true,
+      "sitemapXMLURLs": 7
+    },
+    {
+      "userAgent": "OAI-SearchBot",
+      "requests": 9,
+      "allHTTP200": true,
+      "allHTMLMatchesProductionBuild": true,
+      "metaRobots": "index, follow",
+      "canonical": "all 7 correct",
+      "restrictiveXRobotsTag": false,
+      "robotsAllowsAll7": true,
+      "sitemapXMLURLs": 7
+    }
+  ],
+  "previewURLVerification": "pending current deployment URL",
+  "actualCrawlerIPVerification": "not performed; User-Agent requests only"
+}

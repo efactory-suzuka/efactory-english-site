@@ -1,0 +1,52 @@
+---
+import { sitePath, routePath } from '../data/paths';
+import type { ImageMetadata } from 'astro';
+import { Image } from 'astro:assets';
+import { homeImages } from '../data/home';
+import { navigation, japanesePages, japaneseSite } from '../data/site';
+import '../styles/global.css';
+import { canonicalURL, searchIndexable } from '../data/search';
+interface Props { title: string; description: string; brandLogo?: ImageMetadata; }
+const { title, description, brandLogo } = Astro.props;
+const path = routePath(Astro.url.pathname);
+const japanesePage = japanesePages[path] || japaneseSite;
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <link rel="alternate" hreflang="ja" href={japanesePage} />
+    <meta name="robots" content={searchIndexable ? 'index, follow' : 'noindex, nofollow'} />
+    <link rel="canonical" href={canonicalURL(path)} />
+    <meta name="theme-color" content="#f15a24" />
+    <title>{title} | eFactory Suzuka</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="utility-bar"><div class="container utility-inner"><span>Based in Suzuka · Welcoming riders from across Japan</span><a class="language-button" href={japanesePage} target="_blank" rel="noopener" lang="ja" aria-label="Open the Japanese version in a new tab">日本語サイトへ <span class="arrow" aria-hidden="true"></span></a></div></div>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="wordmark" href={sitePath('/')} aria-label="eFactory home"><Image src={brandLogo || homeImages.headerLogo} alt="eFactory — Enjoy with us" width={186} widths={[186, 372]} format="png" loading="eager" /></a>
+        <nav class="desktop-nav" aria-label="Main navigation">
+          {navigation.slice(0, 6).map(item => <a href={sitePath(item.href)} aria-current={path === item.href ? 'page' : undefined}>{item.label}</a>)}
+        </nav>
+        <a class="button button-small header-contact" href={sitePath('/contact/')}>Plan your visit <span class="arrow" aria-hidden="true"></span></a>
+        <details class="mobile-menu">
+          <summary><span>Menu</span><span class="menu-icon" aria-hidden="true">☰</span></summary>
+          <nav aria-label="Mobile navigation">{navigation.map(item => <a href={sitePath(item.href)} aria-current={path === item.href ? 'page' : undefined}>{item.label}<span class="arrow" aria-hidden="true"></span></a>)}</nav>
+        </details>
+      </div>
+    </header>
+    <main id="main"><slot /></main>
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div><a class="wordmark footer-wordmark" href={sitePath('/')} aria-label="eFactory home"><Image src={brandLogo || homeImages.footerLogo} alt="eFactory — Enjoy with us" width={186} widths={[186, 372]} format="png" loading="lazy" /></a><p>Make your next step<br />part of your motorcycle life.</p><span class="footer-location">Suzuka, Mie, Japan · By appointment only</span></div>
+        <nav aria-label="Footer navigation">{navigation.map(item => <a href={sitePath(item.href)}>{item.label}</a>)}</nav>
+        <div class="footer-contact"><span class="eyebrow">LET’S GET STARTED</span><p>Tell us about your bike<br />and what you have in mind.</p><a href={sitePath('/contact/')} class="text-link">Contact & access <span class="arrow" aria-hidden="true"></span></a><a href={japanesePage} class="language-button language-button-footer" target="_blank" rel="noopener" lang="ja" aria-label="Open the Japanese version in a new tab">日本語サイトへ <span class="arrow" aria-hidden="true"></span></a></div>
+      </div>
+      <div class="container footer-bottom"><span>© {new Date().getFullYear()} eFactory</span><span>English website · Design prototype</span></div>
+    </footer>
+  </body>
+</html>

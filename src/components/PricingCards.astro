@@ -1,0 +1,11 @@
+---
+import { sitePath } from '../data/paths';
+import { pricing, yen } from '../data/site';
+const singlePrice = pricing.single.total;
+---
+<div class="pricing-grid">
+  <article class="price-card first-price"><span class="eyebrow">START HERE</span><h3>{pricing.first.label}</h3><span class="price-label">Total price</span><p class="price">{yen(pricing.first.total)}<span>/ {pricing.first.minutes} min · incl. tax</span></p><p>For first-time customers, without membership registration. Agree on the task and scope before booking.</p><a href={sitePath('/contact/')} class="text-link">Ask about your first visit <span class="arrow" aria-hidden="true"></span></a></article>
+  <article class="price-card"><span class="eyebrow">KEEP IT FLEXIBLE</span><h3>{pricing.single.label}</h3><span class="price-label">Total price</span><p class="price">{yen(singlePrice)}<span>/ {pricing.single.minutes} min · incl. tax</span></p><p>A non-member option. Available services depend on your plan and task.</p><a href={sitePath('/pricing/')} class="text-link">View pricing <span class="arrow" aria-hidden="true"></span></a></article>
+  <article class="price-card passes-card"><span class="eyebrow">MAKE ROOM FOR MORE</span><h3>Session passes</h3><div class="pass-options">{pricing.passes.map(pass => <div class="pass-row"><div><strong>{pass.sessions} sessions</strong><span class="pass-total">{yen(pass.total)}<small>Total price · incl. tax</small></span></div><div><strong class="pass-unit">{yen(pass.total / pass.sessions)}<small>/ session</small></strong><span>{yen(singlePrice * pass.sessions - pass.total)} less than singles*</span></div></div>)}</div><p>{pricing.passes[0].minutes}-minute sessions · Valid for {pricing.passes[0].validityMonths} months</p><a href={sitePath('/pricing/')} class="text-link">Compare your options <span class="arrow" aria-hidden="true"></span></a></article>
+</div>
+<p class="price-note">All listed session prices include tax. Parts, consumables, materials and separately quoted specialist work may cost extra. Confirm the full cost before booking. *Compared with buying the same number of single sessions. Confirm pass conditions and when the validity period begins.</p>

@@ -1,0 +1,1484 @@
+{
+  "measuredAt": "2026-10-14T12:00:08.803059+09:00",
+  "baseline": "docs/search-after.json (2026-10-14 11:26 JST)",
+  "requests": [
+    {
+      "url": "https://efactory-english-site.pages.dev/",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.022376+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tZ4rvQgy%2B6WvW9sZA9EiVCSw4GWIKar1XGlvwpuPQKZfRUzFTVsrl5GHbARQagFGEuP%2BhpfT54ItD%2F4QiDYmKD8v6wYEkZIn%2BFPoulPZkMFcmvgcEYWM5t%2Fwcu%2BDHCU7JY8s4JZZ3o1uOssRDtGo9Jb%2F\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a354fede19f155-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "107"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "93ee9a4106909be162c5d77ea9284f8adab5116f84aa6b778376b4ac0f67cd80",
+      "bytes": 20766,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/"
+      ],
+      "mainTextCharacters": 6224,
+      "mainTextExcerpt": "FOR YOUR MOTORCYCLE LIFE IN JAPAN Your Bike. Your Project. We're Here to Help. Motorcycle maintenance, customization and technical support in Suzuka, Japan—for riders from across Japan. Make more of the bike you own and ride in Japan. Bring your project to a workshop with tools, equipment and practical know-how, and work through the next step with ",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/services/",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.033311+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/services/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FQpwSI4q9sbxXy6F2eE1O%2BXxIMrmP0cIlXqBdGZ7DUKa5Y1BRbnh9jtGkGHC65fyR%2BUxiI5lfKduChBlCYIuwGSO%2BD3R5Bxcd82FC%2FWeKIT37O%2BFXRU4oedPdnFk4w1T3E3Xnxc3qKKWiMnkfnaI7loP\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a354ff1ef94fa9-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "149"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "af834fded9001d29cdff558b7c59c8876fe6bc76433ee40ab59c3022b737e449",
+      "bytes": 13824,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/services/"
+      ],
+      "mainTextCharacters": 4253,
+      "mainTextExcerpt": "Home / Services EFACTORY / YOUR MOTORCYCLE LIFE IN JAPAN Support for the bike you ride. Workshop equipment, practical guidance and specialist knowledge—for maintaining, improving and understanding your motorcycle in Japan. Compare prices  Discuss a visit  Based in Suzuka. Welcoming riders from across Japan. DIY support Damage & repair Tyres Custom ",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/pricing/",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.025770+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/pricing/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=kQTbKavOFotVgh2Jmy37LqbxplSTg%2BT7Y1iMvTettRyz5x4mQUJ0yW8hCb3TjeTwgv%2BxE3A32IIOWGF34r15gJpl%2Bo%2BA%2B%2BuaNi%2FQeLp%2BPi%2Fg%2FOTR%2B%2FV5CCSg9CVj911dKNdXkS6%2BYSyWcZ2yFyA78FWT\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a354ff0e268fc2-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "106"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "b9e9275ff6fc73720b68bed77194276f13df508047c38c9f519a82a1dcd9a8ab",
+      "bytes": 12800,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/pricing/"
+      ],
+      "mainTextCharacters": 4691,
+      "mainTextExcerpt": "Home / Pricing PLANS & PRICING Clear prices. A practical start. Choose a first visit, a session when you need it, or ongoing support. Every price below includes Japanese consumption tax. Total prices · Tax included · Extra parts and specialist work confirmed separately Visits & passes Compare sessions Membership Service eligibility Before booking Y",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/about/",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.032225+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/about/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=3O0vhsCYuvEKNpcU%2BJfIiFYrIqZ7bj4Knt19Ce2QSDguJ3LMCGQl65f1shNhcshk1h6AeHts0lqdWP%2FEzakNk9GtOxXVom64TFuM0ygm4bp0rs1FDm0GispsG72J7Ahzu6B1zhIeEHlivtHsUviVtrc9\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a354fede1df155-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "83"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "69f224606b08d8ad90cae60565d03b17550369b51b1996414d83565562cd2472",
+      "bytes": 8294,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/about/"
+      ],
+      "mainTextCharacters": 2371,
+      "mainTextExcerpt": "Home / About eFactory ENJOY WITH US Build. Ride. Learn. Together. A place to understand your bike, explore an idea and take the next step—with knowledge and practical support alongside you. WHY EFACTORY EXISTS From “I’d like to” to “I did it.” Wanting to work on your own motorcycle is one thing. Having the space, tools and someone to ask can be ano",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/ecu-tuning/",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.198815+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/ecu-tuning/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tcnaUhT8QQSiXq08E19ryGhfEyLGfffIRKxwREnuyv3%2B%2FiKc85rLavas619FiYFGrd%2FjG3Y6Tq9xwreYP17SUq7hkS9EDFS5YTTcRcWxLHuzeezR%2BbghWU6HlFvI3JgWdNt1ltRX757HCsUPv%2B5bOSKX\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a354ff88088fc2-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "257"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "28223114555b70185734e40b2fa9080cd1b32e6776e9c1065418bc7c4630278a",
+      "bytes": 14936,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/ecu-tuning/"
+      ],
+      "mainTextCharacters": 6151,
+      "mainTextExcerpt": "Home / ECU Flashing RIDE. CHECK. REFINE. ECU Flashing & Setup Beyond peak power. Work towards engine response that fits the way you ride—using vehicle condition, data and riding feedback to consider throttle opening, drive and deceleration. Enquire about ECU Flashing  Start by checking the model and specification. Detailed technical consultation is",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/faq/",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.217282+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/faq/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=tQnB1tzRwq8WgutTdxasZ7yyh1JJyxa0a2zNSI80K73YA2y1K4MO78AFxMGFFMLs96s3BL4LwDfbioJHTYJpBwgas%2FoFgAWldRnQ0fekFiXvCGfBhII97E0%2BKRdPeBzJxsprA01z13TKCmfrw6RJDK%2BG\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a354ff98f04fa9-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "57"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "e2983c315c6a84ed97913fa5f7b898746e3eaa22f199be3e5d055b879b0487b5",
+      "bytes": 10086,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/faq/"
+      ],
+      "mainTextCharacters": 4217,
+      "mainTextExcerpt": "Home / Frequently asked questions FAQ / BEFORE YOUR FIRST VISIT Good to know before you visit. Understand the approach, prepare for your project and agree on the arrangements before travelling to Suzuka. Getting started Booking, travel & language Prices & preparation Specialist projects Getting started Can I enquire if I’m new to DIY maintenance? Y",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/contact/",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.243565+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/contact/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=9%2BohzIIozYqwdbrE7n5%2BbV52UqueIA5Xr7rpJyazKjOeAerJwwWx%2B9r3ZZaJWd6u0c6HAJpUI9pkwU4RjE5C2puqIKSpNJqbKExr%2Fi81NHRpYBhiR8WRzsSSBWsrgUbc4hodyK%2B%2BK7%2Fl7sb%2BLhBFimhC\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a354ffa825f155-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "196"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "24b4c1b4ed94a34aa0a1930239ecc231c1b637f761e8252397c986ed497d5ceb",
+      "bytes": 10530,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/contact/"
+      ],
+      "mainTextCharacters": 2867,
+      "mainTextExcerpt": "Home / Contact & access CONTACT / BY APPOINTMENT ONLY Let’s plan your visit. Based in Suzuka. Welcoming riders from across Japan. Tell us about your bike and the task you have in mind, then agree on an appointment. Your destination: the eFactory workshop in Suzuka. Contact routes What to send Booking & travel Map & access ECU enquiries Start with a",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/",
+      "agent": "ChatGPT-User",
+      "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+      "at": "2026-10-14T12:00:08.306306+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DNrk8hSgW8Vk%2BaMrulvertDonEZlD1cK%2FwgnRPSJ6rq7tQzajGAU8UWcEe0GGPbMOOQE5H5JOk1MrrYXQNwQKhbk1q5AtteG80STjnMbaHsy%2BeCFGMDdBVdTtWL%2BQrz6m8auCW5AgobnI0QDNHBGCYAb\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a355006cb6e7f4-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "86"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "93ee9a4106909be162c5d77ea9284f8adab5116f84aa6b778376b4ac0f67cd80",
+      "bytes": 20766,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/"
+      ],
+      "mainTextCharacters": 6224,
+      "mainTextExcerpt": "FOR YOUR MOTORCYCLE LIFE IN JAPAN Your Bike. Your Project. We're Here to Help. Motorcycle maintenance, customization and technical support in Suzuka, Japan—for riders from across Japan. Make more of the bike you own and ride in Japan. Bring your project to a workshop with tools, equipment and practical know-how, and work through the next step with ",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/services/",
+      "agent": "ChatGPT-User",
+      "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+      "at": "2026-10-14T12:00:08.326737+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/services/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=xUs23Zb8u0b1R19D8TLXvK794A4b%2FFnNng%2BEB2DnH%2FE4YAh3AcDjJUVm4bPEBXwx5uMZah3BGqvURejpA7sEsZtz9gO5UebFDk0DPBvzFUVjOrPsLKLJb8nU3QfBEddk6SHmh6CS3T9rCKdqSJc%2BYOUt\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a355006cbfe7f4-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "103"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "af834fded9001d29cdff558b7c59c8876fe6bc76433ee40ab59c3022b737e449",
+      "bytes": 13824,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/services/"
+      ],
+      "mainTextCharacters": 4253,
+      "mainTextExcerpt": "Home / Services EFACTORY / YOUR MOTORCYCLE LIFE IN JAPAN Support for the bike you ride. Workshop equipment, practical guidance and specialist knowledge—for maintaining, improving and understanding your motorcycle in Japan. Compare prices  Discuss a visit  Based in Suzuka. Welcoming riders from across Japan. DIY support Damage & repair Tyres Custom ",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/pricing/",
+      "agent": "ChatGPT-User",
+      "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+      "at": "2026-10-14T12:00:08.436350+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/pricing/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=zrSfuxc2IdK60758EusIWD1egyo1unDO5Tj8lgiEn4zICuNBNaNjDcqBwwKoBLw4yDaSKwKx1%2FQmb9lCGj5cC1TWNPCPru3dcENs0c%2FWh1wcN5xxAKu47jd7IgyMsp57YjRHO89c%2FDlB7qKzBNQtrcqE\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a35500ee134fa9-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "70"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "b9e9275ff6fc73720b68bed77194276f13df508047c38c9f519a82a1dcd9a8ab",
+      "bytes": 12800,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/pricing/"
+      ],
+      "mainTextCharacters": 4691,
+      "mainTextExcerpt": "Home / Pricing PLANS & PRICING Clear prices. A practical start. Choose a first visit, a session when you need it, or ongoing support. Every price below includes Japanese consumption tax. Total prices · Tax included · Extra parts and specialist work confirmed separately Visits & passes Compare sessions Membership Service eligibility Before booking Y",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/about/",
+      "agent": "ChatGPT-User",
+      "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+      "at": "2026-10-14T12:00:08.476574+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/about/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=TUtAlwzS7yWhb4EWlj0IX8Q1yOAMA4OikmtS7ESVrucCBWaVB55IPEtxCGCPuyY5RK5utN9uWCZ15RI41DRzDgrtMPa2%2BlOToyk7uNlQHP58n7BGC8TyNFaX4TSzK9e8wCsLBIoLTMe0pzMKxTyvyhp%2F\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a355015c08f155-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "72"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "69f224606b08d8ad90cae60565d03b17550369b51b1996414d83565562cd2472",
+      "bytes": 8294,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/about/"
+      ],
+      "mainTextCharacters": 2371,
+      "mainTextExcerpt": "Home / About eFactory ENJOY WITH US Build. Ride. Learn. Together. A place to understand your bike, explore an idea and take the next step—with knowledge and practical support alongside you. WHY EFACTORY EXISTS From “I’d like to” to “I did it.” Wanting to work on your own motorcycle is one thing. Having the space, tools and someone to ask can be ano",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/ecu-tuning/",
+      "agent": "ChatGPT-User",
+      "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+      "at": "2026-10-14T12:00:08.483988+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/ecu-tuning/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=itTaP9fzlkT3rVyfycS8HNLqcU%2B2x2qJ6sWlakJ2S%2B3sernDn66CpyIJVocclGGAF2sHxsH7KX3N8enUAIXybgq19xW0XX1SjmwHN5gNADnsiQ1g0ZLe5G%2FynWyBhrmuFu8nMSczKE1anVxTP23ei2u4\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a355016db4dadc-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "71"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "28223114555b70185734e40b2fa9080cd1b32e6776e9c1065418bc7c4630278a",
+      "bytes": 14936,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/ecu-tuning/"
+      ],
+      "mainTextCharacters": 6151,
+      "mainTextExcerpt": "Home / ECU Flashing RIDE. CHECK. REFINE. ECU Flashing & Setup Beyond peak power. Work towards engine response that fits the way you ride—using vehicle condition, data and riding feedback to consider throttle opening, drive and deceleration. Enquire about ECU Flashing  Start by checking the model and specification. Detailed technical consultation is",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/faq/",
+      "agent": "ChatGPT-User",
+      "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+      "at": "2026-10-14T12:00:08.513083+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/faq/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=%2FCFfNw6j6xFDpwE0eJTPb%2FyJs3e8VtTo0VQhcxmMfd6s1tWW0wjW1sz3Io0tvA5MSY7UA656ESUdNv8UBFug1cLoLrH9UDY0CnO3niqWQkWRjz5np328dPEJmpdY2P%2Fr%2BPOZZExam%2BZdIQrckKfELBxL\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a3550249868fc2-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "24"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "e2983c315c6a84ed97913fa5f7b898746e3eaa22f199be3e5d055b879b0487b5",
+      "bytes": 10086,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/faq/"
+      ],
+      "mainTextCharacters": 4217,
+      "mainTextExcerpt": "Home / Frequently asked questions FAQ / BEFORE YOUR FIRST VISIT Good to know before you visit. Understand the approach, prepare for your project and agree on the arrangements before travelling to Suzuka. Getting started Booking, travel & language Prices & preparation Specialist projects Getting started Can I enquire if I’m new to DIY maintenance? Y",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/contact/",
+      "agent": "ChatGPT-User",
+      "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)",
+      "at": "2026-10-14T12:00:08.543876+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/contact/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=DZvBFfmCdyd5DcRlC4QEktnoIPIdDlkgBaxrzexDTu4b6FlE6%2Fd38qPROgr7NY1HakQceW5lukyJrqIgsQ4szzRD4gGzyzBCNpePfYMNPmo5UnU7nGWlqU%2FModG8LXNQyTxZLCVqvH6Fjz5b1%2BZkhXti\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a35502aebe0059-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "87"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "24b4c1b4ed94a34aa0a1930239ecc231c1b637f761e8252397c986ed497d5ceb",
+      "bytes": 10530,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/contact/"
+      ],
+      "mainTextCharacters": 2867,
+      "mainTextExcerpt": "Home / Contact & access CONTACT / BY APPOINTMENT ONLY Let’s plan your visit. Based in Suzuka. Welcoming riders from across Japan. Tell us about your bike and the task you have in mind, then agree on an appointment. Your destination: the eFactory workshop in Suzuka. Contact routes What to send Booking & travel Map & access ECU enquiries Start with a",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/robots.txt",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.598198+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/robots.txt",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/plain; charset=utf-8"
+        ],
+        [
+          "content-length",
+          "183"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "etag",
+          "\"6558ee9e725d35ec0c5a9f807f8a3dfc\""
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=IIIngHrc331itMVnilqSELIxAPgABsrBcbHNn8xNrkm2mDuxE7hc%2F9%2BXFEHWZL5l0LbiCTfWD9eIJj7gBb6a5r7hx2G92MO71FW3uqzt4x1JKCWyvJ3%2Fdh6fOfVXKzlN%2FJ9LsvgF43y4r3rXxt%2FkLYag\"}]}"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a35501ff1adadc-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "17"
+        ],
+        [
+          "connection",
+          "close"
+        ]
+      ],
+      "sha256": "e23d22b09cb967ff1af95a0a36a4b429a7540a164b901f24b115bb4f591858a5",
+      "bytes": 183,
+      "contentType": "text/plain; charset=utf-8",
+      "metaRobots": [],
+      "canonical": [],
+      "mainTextCharacters": 0,
+      "mainTextExcerpt": "",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/sitemap.xml",
+      "agent": "browser",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "at": "2026-10-14T12:00:08.623602+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/sitemap.xml",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "application/xml"
+        ],
+        [
+          "content-length",
+          "611"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "etag",
+          "\"013538c240a64f1153c4e15a7e54da26\""
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=2ogVY1JlrPXptsJx0KCPf6D7QB7UyKC74i0FebTfrjoa7tS1shmv3J9QjbaUX59wVY48cIN1dIo4F0Wq3uFBnCunSmEKvG624MojHxGPrqOVl%2F13fBn8KXEHPYNdGvIfrNfZ1itd1jDnKW31WtM7tneW\"}]}"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a3550249efeacf-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "70"
+        ],
+        [
+          "connection",
+          "close"
+        ]
+      ],
+      "sha256": "d302e0572d5c780fb5412fbe4de82f2dc6f5b2d6bb350b037b7456980d997975",
+      "bytes": 611,
+      "contentType": "application/xml",
+      "metaRobots": [],
+      "canonical": [],
+      "mainTextCharacters": 0,
+      "mainTextExcerpt": "",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/",
+      "agent": "ChatGPT-User-literal",
+      "userAgent": "ChatGPT-User",
+      "at": "2026-10-14T12:00:08.671837+09:00",
+      "status": 200,
+      "finalURL": "https://efactory-english-site.pages.dev/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/html; charset=utf-8"
+        ],
+        [
+          "access-control-allow-origin",
+          "*"
+        ],
+        [
+          "cache-control",
+          "public, max-age=0, must-revalidate"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "referrer-policy",
+          "strict-origin-when-cross-origin"
+        ],
+        [
+          "x-content-type-options",
+          "nosniff"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=wo1Erl0vD7zmTEiGvBzT%2BnMk91enll8x308b3TCRBlYeHhABxSQnwr0wR6WDSjBNEn0E7bLzBPgbggqS2WBt%2BIHpiraVirENAV93ebASW%2BJjAt99ewqqXudZkCUVxxS5p0PZxf%2Bsb5c%2FGTSP43uYzpiA\"}]}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a35502aec00059-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "93"
+        ],
+        [
+          "connection",
+          "close"
+        ],
+        [
+          "transfer-encoding",
+          "chunked"
+        ]
+      ],
+      "sha256": "93ee9a4106909be162c5d77ea9284f8adab5116f84aa6b778376b4ac0f67cd80",
+      "bytes": 20766,
+      "contentType": "text/html; charset=utf-8",
+      "metaRobots": [
+        "index, follow"
+      ],
+      "canonical": [
+        "https://efactory-english-site.pages.dev/"
+      ],
+      "mainTextCharacters": 6224,
+      "mainTextExcerpt": "FOR YOUR MOTORCYCLE LIFE IN JAPAN Your Bike. Your Project. We're Here to Help. Motorcycle maintenance, customization and technical support in Suzuka, Japan—for riders from across Japan. Make more of the bike you own and ride in Japan. Bring your project to a workshop with tools, equipment and practical know-how, and work through the next step with ",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": true,
+      "sameContentTypeAsPrevious": true
+    },
+    {
+      "url": "https://efactory-english-site.pages.dev/",
+      "agent": "Python-default",
+      "userAgent": "Python-urllib/3.11",
+      "at": "2026-10-14T12:00:08.720078+09:00",
+      "status": 403,
+      "finalURL": "https://efactory-english-site.pages.dev/",
+      "redirects": [],
+      "headers": [
+        [
+          "date",
+          "Wed, 14 Oct 2026 03:00:08 GMT"
+        ],
+        [
+          "content-type",
+          "text/plain; charset=UTF-8"
+        ],
+        [
+          "content-length",
+          "17"
+        ],
+        [
+          "cache-control",
+          "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0"
+        ],
+        [
+          "expires",
+          "Thu, 01 Jan 1970 00:00:01 GMT"
+        ],
+        [
+          "referrer-policy",
+          "same-origin"
+        ],
+        [
+          "x-frame-options",
+          "SAMEORIGIN"
+        ],
+        [
+          "report-to",
+          "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=45JUU8ywoJDhuHpIVbdmhD%2FII%2F5zkizvOWbbueE8eqBAw2KgqDqBhFWyf4d3He3kDM5966NAalJI0q3bKHNZb9vBSPDPUdwLpUaukg6xdhHUjqSV7gQE8YPbbQPwn%2BipElOAo6AFnEKdMA9A3JEt1mSG\"}]}"
+        ],
+        [
+          "nel",
+          "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+        ],
+        [
+          "server",
+          "envoy"
+        ],
+        [
+          "cf-ray",
+          "a4a35502b918dadc-ORD"
+        ],
+        [
+          "alt-svc",
+          "h3=\":443\"; ma=86400"
+        ],
+        [
+          "x-envoy-upstream-service-time",
+          "15"
+        ],
+        [
+          "connection",
+          "close"
+        ]
+      ],
+      "sha256": "2938e9f1284180959e33ab1718d0793a72ff6e4cdb8108c34dcd14e69446de5c",
+      "bytes": 17,
+      "contentType": "text/plain; charset=UTF-8",
+      "metaRobots": [],
+      "canonical": [],
+      "mainTextCharacters": 0,
+      "mainTextExcerpt": "",
+      "challengeSignals": [],
+      "cfMitigated": null,
+      "sameHTMLAsPrevious": false,
+      "sameContentTypeAsPrevious": false
+    }
+  ],
+  "cloudflareCredentialAvailability": {
+    "CLOUDFLARE_API_TOKEN": false,
+    "CLOUDFLARE_ACCOUNT_ID": false,
+    "CF_API_TOKEN": false,
+    "CF_ACCOUNT_ID": false
+  }
+}
