@@ -46,7 +46,7 @@ const japanesePage = japanesePages[path] || japaneseSite;
         <nav aria-label="Footer navigation">{navigation.map(item => <a href={sitePath(item.href)}>{item.label}</a>)}</nav>
         <div class="footer-contact"><span class="eyebrow">LET’S GET STARTED</span><p>Tell us about your bike<br />and what you have in mind.</p><a href={sitePath('/contact/')} class="text-link">Contact & access <span class="arrow" aria-hidden="true"></span></a><a href={japanesePage} class="language-button language-button-footer" target="_blank" rel="noopener" lang="ja" aria-label="Open the Japanese version in a new tab">日本語サイトへ <span class="arrow" aria-hidden="true"></span></a></div>
       </div>
-      <div class="container footer-bottom"><span>© {new Date().getFullYear()} eFactory</span><span>English website · Design prototype</span></div>
+      <div class="container footer-bottom"><span>© {new Date().getFullYear()} eFactory</span><span>{path === '/ecu-tuning/' ? 'English website' : 'English website · Design prototype'}</span></div>
     </footer>
   </body>
 </html>
